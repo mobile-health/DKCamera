@@ -174,7 +174,7 @@
 				9CA1216E21A28B8600BD17D9 /* DKCameraLocationManager.swift */,
 				9C0FA1C41B93468E0020B5FF /* DKCameraResource.bundle */,
 			);
-			path = DKCamera;
+			path = Sources/DKCamera;
 			sourceTree = SOURCE_ROOT;
 		};
 		9CA4ACA32004D9D5008AFD7D /* DKCamera */ = {
